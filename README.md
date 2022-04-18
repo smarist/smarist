@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smarist
+- 👋 Hi, I’m Stellamaris
 - 👀 I’m interested in Frontend development 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on JavaScript and react projects
