@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stellamaris
 - 👀 I’m interested in Frontend development 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Advance React, Typescript
 - 💞️ I’m looking to collaborate on JavaScript and react projects
 - 📫 How to reach me email: stmarisnwokike@gmail.com
 
